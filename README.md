@@ -5,7 +5,7 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutoportelaa&theme=transparent" alt="Profile Details" />
   </p>
-  
+  </div>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutoportelaa&theme=transparent" alt="Repos per Language" />
   </p>
@@ -33,4 +33,3 @@
     </a>
   </div>
 
-</div>
