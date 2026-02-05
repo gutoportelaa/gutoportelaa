@@ -5,18 +5,18 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutoportelaa&theme=transparent" alt="Profile Details" />
   </p>
-  </div>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutoportelaa&theme=transparent" alt="Repos per Language" />
-  </p>
+ 
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode" />
   </a>
-
   <br><br>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutoportelaa&theme=transparent" alt="Repos per Language" />
+  </p>
 
+  
   <h3>📞 Contatos</h3>
   <div align="center">
     <a href="https://instagram.com/gutoportelaa" target="_blank">
@@ -33,3 +33,4 @@
     </a>
   </div>
 
+</div>
