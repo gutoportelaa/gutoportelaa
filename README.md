@@ -2,9 +2,15 @@
 
  ✔️  GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutoportelaa&show_icons=true&theme=transparent)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutoportelaa&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gutoportelaa&theme=dark&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutoportelaa&theme=solarized_dark)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutoportelaa&theme=solarized_dark) ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=gutoportelaa&theme=solarized_dark)
+
+![Metrics](https://metrics.lecoq.io/gutoportelaa?template=classic&config.timezone=America%2FSao_Paulo)
 
  📞 Contatos:
 <div> 
