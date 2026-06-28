@@ -19,7 +19,7 @@
   <a href="https://www.credly.com/badges/3dd91741-79bc-4e2a-a3a0-13e84f1fec34/public_url">
     <img
       src="./assets/aws-generative-ai-foundations.png"
-      width="180"
+      width="100"
       alt="AWS Academy Generative AI Foundations">
   </a>
 
