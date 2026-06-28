@@ -5,18 +5,24 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gutoportelaa&theme=transparent" alt="Profile Details" />
   </p>
+
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=gutoportelaa&theme=transparent"/>
  
 
   <h3>🛠️ Tecnologias e Ferramentas</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode" />
   </a>
-  <br><br>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gutoportelaa&theme=transparent" alt="Repos per Language" />
-  </p>
+  <br><br> 
 
-  
+  <a href="https://www.credly.com/badges/3dd91741-79bc-4e2a-a3a0-13e84f1fec34/public_url">
+    <img
+      src="./assets/aws-generative-ai-foundations.png"
+      width="180"
+      alt="AWS Academy Generative AI Foundations">
+  </a>
+
   <h3>📞 Contatos</h3>
   <div align="center">
     <a href="https://instagram.com/gutoportelaa" target="_blank">
@@ -33,4 +39,9 @@
     </a>
   </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gutoportelaa/gutoportelaa/output/github-contribution-grid-snake.svg" />
+</p>
 </div>
+
+
